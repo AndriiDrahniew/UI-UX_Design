@@ -1,7 +1,12 @@
 # Zvit
 ## 1. Аналіз вхідних файлів
 ### 1.	Виберіть 3 типи зображень (фотографія, скріншот, графічне зображення з текстом).
+- зображення із текстом:
 ![Close story](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_1/pictures/Close%20story.png)
+- скріншот:
+![Screenshot 2025-03-04 135618](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_1/pictures/Screenshot%202025-03-04%20135618.png)
+- фотографія:
+![herr00005](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_1/pictures/daniel_herr00005.jpg)
 ### 2.	Зафіксуйте їхній початковий розмір, формат (JPEG, PNG тощо) та вагу файлу.
 |Назва зображення              |    Тип   | Розмір у px | Вага    |
 |------------------------------|----------|-------------|---------|
