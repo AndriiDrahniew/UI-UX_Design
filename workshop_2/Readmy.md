@@ -76,47 +76,47 @@
 Логіка побудови та передбачуваний емоційний ефект: Відтінки фіолетового, синього та рожевого, що в залежності від використання створюють холодний доброзичливий настрій або ж більш яскравий та енергійний. 
 
 #### 2. Монохромна (Monochromatic)
-![Close story](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_1/pictures/Close%20story.png)
+![Monochromic](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_2/pictures/Monochromic.png)
 Логіка побудови та передбачуваний емоційний ефект: Різні відтінки фіолетового створюють трохи напружений градієт від чорного до яскраво-фіолетового, що виглядає стільно.
 
 #### 3. Трикутна (Triadic)
-![Close story](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_1/pictures/Close%20story.png)
+![Triadic](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_2/pictures/Triadic.png)
 Логіка побудови та передбачуваний емоційний ефект: Гарний баланс трьох сторін дозволяє створити різнобарвну веселу ауру продукту, з яскравими та віраженими акцентами.
 
 #### 4. Комплементарна (Complementary)
-![Close story](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_1/pictures/Close%20story.png)
+![Complementary](http://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_2/pictures/Complementary.png)
 Логіка побудови та передбачуваний емоційний ефект: Фіолетово-зелела тема, переважно темна, з двома яскравими протилежними кольорами для підчоркування акценту на деталях.
 
 #### 5. Спліт-комплементарна (Split-Complementary)
-![Close story](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_1/pictures/Close%20story.png)
+![SplitComplementary](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_2/pictures/SplitComplementary.png)
 Логіка побудови та передбачуваний емоційний ефект: Більш яскрава колірна гамма, з навпаки вираженими темними кольорами.
 
 #### 6. Квадратна (Square)
-![Close story](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_1/pictures/Close%20story.png)
+![Square](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_2/pictures/Square.png)
 Логіка побудови та передбачуваний емоційний ефект: Найбільш різнобарвна палітра, що підходить для створення яскравого та веселого дизайну, що майже не має у собі кольорів "заднього плану".
 
 #### 7. Власна (Custom)
-![Close story](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_1/pictures/Close%20story.png)
+![Custom](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_2/pictures/Custom.png)
 Логіка побудови та передбачуваний емоційний ефект: В якості власної палітри я обрав три відтінки фіолетового для створення дизайну середньої "температури", з двома яркими контрастними жовтими кольорами, що ніби надають сонячного тепла до дизайну.
 
 ### 3. Палітра зображення
 #### 1. Colorful
-![Close story](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_1/pictures/Close%20story.png)
+![ColorfulTheme](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_2/pictures/ColorfulTheme.png)
 Опис: Велика кількість теплих кольорів дозволяють створити дуже яскравий дизайн відтінками одного кольору, не дивлячись на те, що на фотографії сутінки.
 
 #### 2. Muted
-![Close story](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_1/pictures/Close%20story.png)
+![MutedTheme](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_2/pictures/MutedTheme.png)
 Опис: Даний стиль палітри трохи темніший, хоча змінився лише один колір з най яскравішого на найтемніший, проте дизайн так само виглядає досить тепло та яскраво.
 
 #### 3. Яка палітра більше підходить для інтерфейсу додатку?
 На мою думку, другий, більш темний варіант підходить для інтерфейсу додатку більше ніж перший, тому що в ньому більш усереднена загальна колірна гамма, що дозволяє як створювати задній фон, так і яскраво підкреслювати контрасти. На від міну від нього, перший варіант буде різати очі через свою одноманітну яскравість і невелику різницю між кольорами текст та елементи можуть зливатися.
 
 ### 4. Градієнт на основі зображення
-![Close story](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_1/pictures/Close%20story.png)
+![Gradient](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_2/pictures/Gradient.png)
 Опис: Приємний гражієнт від світло-сірого до темно-сірого, з темно оранжевим між ними. Він створює відчуття закату або повільного загасання вогню, а також ненав'язливо концентрує увагу в середині градієнту.
 
 ### 5. Контрастність тексту
-![Close story](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_1/pictures/Close%20story.png)
+![Accsessibility](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_2/pictures/Accsessibility.png)
 Для цього завдання я використав два(три) кольори з власної кастомної палітри. Спочатку я вікористав, як мені здавалось більш яскравий колір, проте він не пройшов перевірки маленького тексту, тому я вирішив змінити яскравий колір на інший, і, через те що він більш контрастний саме до кольору заднього фону, хоча і трохи менш яскравий, я отримав не найгірший коефіцієнт контрастності в 5,19 що підходить як для майже будь якого тексту, так і для інтерактивної графіки.
 
 ## 2. Висновок
