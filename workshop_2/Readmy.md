@@ -68,11 +68,11 @@
 
 ## 1. Практична частина
 ### 1. Основний колір
-![BaseColor]([https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_1/pictures/Close%20story.png](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_2/pictures/BaseColor.png))
+![BaseColor](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_2/pictures/BaseColor.png)
 
 ### 2. Палітри для кожного типу гармрнії
 #### 1. Послідовна (Analogous)
-![Anakogus]([https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_1/pictures/Close%20story.png](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_2/pictures/Anakogus.png))
+![Anakogus](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_2/pictures/Anakogus.png)
 Логіка побудови та передбачуваний емоційний ефект: Відтінки фіолетового, синього та рожевого, що в залежності від використання створюють холодний доброзичливий настрій або ж більш яскравий та енергійний. 
 
 #### 2. Монохромна (Monochromatic)
