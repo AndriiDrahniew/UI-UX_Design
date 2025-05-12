@@ -84,7 +84,7 @@
 Логіка побудови та передбачуваний емоційний ефект: Гарний баланс трьох сторін дозволяє створити різнобарвну веселу ауру продукту, з яскравими та віраженими акцентами.
 
 #### 4. Комплементарна (Complementary)
-![Complementary](http://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_2/pictures/Complementary.png)
+![Complementary](https://github.com/AndriiDrahniew/UI-UX_Design/blob/main/workshop_2/pictures/Complementary.png)
 Логіка побудови та передбачуваний емоційний ефект: Фіолетово-зелела тема, переважно темна, з двома яскравими протилежними кольорами для підчоркування акценту на деталях.
 
 #### 5. Спліт-комплементарна (Split-Complementary)
